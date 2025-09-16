@@ -5,6 +5,7 @@
 🌱 Passionate about **Web Development**, **Frontend Magic**
 
 ---
+<img src="logo.jpg" alt="My Profile Picture" width="200"/>
 
 ## 🚀 About Me
 - 🔭 Currently working on: **Web development projects (React, Laravel, Vue.js, Tailwind CSS)**  
@@ -27,6 +28,8 @@
 - 🐍 **Python for Kids** – Beginner-friendly coding lessons for children.  
 
 ---
+![My Profile Picture](logo.jpg)
+
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
